@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-hacker
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,12 +14,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Byte Burrow # the main title
+title: Kanghae Yoo # the main title
 
-tagline: "My Cybersecurity Journey: CTFs, Malware Musings, and Research Ramblings"  # it will display as the sub-title
+tagline: "CTFs, Malware Musings, and Research Ramblings"  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-   Welcome to Byte Burrow, where I share my adventures in the world of information security. This blog is all about my explorations and discoveries-from the thrills of CTF challenges to the nitty-gritty malware analysis, and the intrigueing findings from the latest research. 
+   A blog dedicated to sharing my adventures in the world of information security. This blog is all about my explorations and discoveries-from the thrills of CTF challenges to the nitty-gritty malware analysis, and the intrigueing findings from the latest research. 
    It's also a place where I jot down my thoughts and notes on sytems programming.
    If you spot anything that could use a teak, a fact-check, or an improvement, I'am all ears!
    Your suggestions and corrections aare more than welcome.
